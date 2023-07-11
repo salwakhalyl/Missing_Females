@@ -16,7 +16,7 @@ Graphical Representation: To visualize the findings, I generated a graph based o
 Results
 Based on the analysis of the dataset, the following conclusions were drawn:
 
-State with the Highest Number of Missing Females: MIAMI (MI). This state had the highest count of missing females between 1994 and 2021.
+State with the Highest Number of Missing Females: Michigan (MI). This state had the highest count of missing females between 1994 and 2021.
 
 Race Most Affected by Missing Females: African American/Black and Caucasian / White. This 2 racial groups experienced the highest number of missing females during the specified period.
 
